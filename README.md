@@ -1,4 +1,4 @@
-#Light-duty two-axis Az/El rotor using portable satellite antenna. 
+Light-duty two-axis Az/El rotor using portable satellite antenna. 
 The code provided is based on code written by Saveitforparts: https://github.com/saveitforparts/Carryout-Rotor/tree/main
 For setup details, please refer to the link above
 
