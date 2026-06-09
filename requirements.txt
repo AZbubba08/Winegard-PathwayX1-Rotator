@@ -1,4 +1,4 @@
-#Package requirements for carryout_rotor.py
+#Package requirements for Winegard_Rotator.py
 
 pyserial
 regex
