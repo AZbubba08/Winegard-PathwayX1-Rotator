@@ -3,7 +3,7 @@ The code provided is based on code written by Saveitforparts: https://github.com
 For setup details, please refer to the link above
 
 **What's changed:**
-- Updates commands to support the Wingguard PathwayX1 (q to go to main menu -> mot to enter the motor menu -> a to change angle)
+- Updates commands to support the Winegard PathwayX1 (q to go to main menu -> mot to enter the motor menu -> a to change angle)
 - Auto-grabs the PC's IP address to make it easier on the user
 - The code provided by Saveitforparts has specific parameters baked into the code. To make the code easier to use and allow the same code to be used on other devices without changing the code. The code now asks users to input the information.
 - Removed the code that reads the position from the PathwayX1 Board - May be added later once I figure out how to implement it
